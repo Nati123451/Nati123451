@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Junior Full Stack Developer</b> · React · Node.js · TypeScript<br>
-  Building products end-to-end — and shipping them.
+  Building products end-to-end - and shipping them.
 </p>
 
 <p align="center">
@@ -21,11 +21,12 @@
 
 ### About
 
-I'm a full stack developer who learned to code after ten-hour warehouse shifts, in whatever evenings were left. Everything in these repositories I built myself, and debugged myself.
+I'm a full stack developer who learned to code after ten-hour warehouse shifts, in whatever evenings were left.
+Everything in these repositories I built myself, and debugged myself.
 
-I came into development through **QA engineering**, which means I think about edge cases before I write the first line — and I write tests for the parts that matter.
+I came into development through **QA engineering**, which means I think about edge cases before I write the first line - and I write tests for the parts that matter.
 
-🔭 Currently looking for my **first full-time role** — Tel Aviv, Central District or remote.
+🔭 Currently looking for my **first full-time role** - Tel Aviv, Central District or remote.
 
 ---
 

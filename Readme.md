@@ -22,7 +22,7 @@
 ### About
 
 I'm a full stack developer who learned to code after ten-hour warehouse shifts, in whatever evenings were left.
-I use every tool available - documentation, Stack Overflow, AI — and I make sure I understand what I ship.
+I use every tool available - documentation, Stack Overflow, AI - and I make sure I understand what I ship.
 
 I came into development through **QA engineering**, which means I think about edge cases before I write the first line - and I write tests for the parts that matter.
 
